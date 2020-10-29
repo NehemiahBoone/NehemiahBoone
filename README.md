@@ -1,4 +1,10 @@
-### Hi there 👋
+### My name is Nehemiah Boone - Full-Stack Software Developer
+
+I'm software developer with a passion for problem solving and working cohesively with others. Experienced with various front and back-end technologies and building full stack applications.
+
+I found my interest in development early in my life, and after several months of teaching myself I found Boise CodeWorks! A bootcamp that teaches Full-Stack Development has also showed me my ability to learn quickly and grow consistently, and I am now looking to begin a long career of growth! 
+
+
 
 <!--
 **NehemiahBoone/NehemiahBoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
