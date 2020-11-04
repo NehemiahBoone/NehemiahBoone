@@ -6,7 +6,7 @@ I found my interest in development early in my life, and after several months of
 
 [Resume](https://github.com/NehemiahBoone/NehemiahBoone/blob/main/Nehemiah%20Boone%20Resume.pdf)
 
-[Personal Pitch](https://docs.google.com/document/d/1j_tpSV-lO94y4Q6xYbS2FN8BaTWR-Iyz0IfnCi5oU3Y/edit?usp=sharing)
+[Elevator Pitch](https://docs.google.com/document/d/1j_tpSV-lO94y4Q6xYbS2FN8BaTWR-Iyz0IfnCi5oU3Y/edit?usp=sharing)
 
 [Wish List Jobs](https://docs.google.com/spreadsheets/d/1ghKTQKOHczFLa0ewJlFSzu7WpjtSpjAdIUy0K7JAv54/edit?usp=sharing)
 
