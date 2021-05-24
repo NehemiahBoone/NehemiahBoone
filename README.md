@@ -1,4 +1,4 @@
-### Full-Stack Software Developer
+### Junior Developer at Solid State Operations
 
 <!--
 **NehemiahBoone/NehemiahBoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
