@@ -1,4 +1,4 @@
-### My name is Nehemiah Boone - Full-Stack Software Developer
+### Full-Stack Software Developer
 
 <!--
 **NehemiahBoone/NehemiahBoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
